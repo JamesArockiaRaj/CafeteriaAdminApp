@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "161720665179",
+    "firebase_url": "https://cafeshop-ac0ac-default-rtdb.firebaseio.com",
+    "project_id": "cafeshop-ac0ac",
+    "storage_bucket": "cafeshop-ac0ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161720665179:android:614ab5db1822382edbab7e",
+        "android_client_info": {
+          "package_name": "com.example.atoscafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161720665179-s8j970u9gtleq3j8tg0otvp8so9rai8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atoscafe",
+            "certificate_hash": "4662c5de847fd00958fe5cf44ee81c5766fcc98d"
+          }
+        },
+        {
+          "client_id": "161720665179-huvsblvmdcpvibd0mbelse8gfsm2ka80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8rCrCAWgYqxIRgB0pS8hbeWeZRbuqjoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161720665179-huvsblvmdcpvibd0mbelse8gfsm2ka80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161720665179:android:7bcb964672a9e6d7dbab7e",
+        "android_client_info": {
+          "package_name": "com.example.atoscafeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161720665179-huvsblvmdcpvibd0mbelse8gfsm2ka80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8rCrCAWgYqxIRgB0pS8hbeWeZRbuqjoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161720665179-huvsblvmdcpvibd0mbelse8gfsm2ka80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161720665179:android:cc942c7dcb4dda69dbab7e",
+        "android_client_info": {
+          "package_name": "com.example.cafeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161720665179-huvsblvmdcpvibd0mbelse8gfsm2ka80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8rCrCAWgYqxIRgB0pS8hbeWeZRbuqjoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161720665179-huvsblvmdcpvibd0mbelse8gfsm2ka80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
